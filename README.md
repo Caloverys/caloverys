@@ -8,7 +8,9 @@ Things I am currently spending the most effort on:
 
 - Competitive programming (C++)
   While web development is a really cool skill, but university doesn't care about it too much. In order to get prepare for the top program in the top university, participating in the competitive programming seems to be the compromise I had to make. 
+  
   Google kickstart: could able to solve question one and question two  and sometimes even question 3 with some luck, but not question four. 
+  
   Codechef: questions among the 2200 - 2500 (6* level)
   
 - React.js 
