@@ -21,7 +21,7 @@ Things I am currently spending the most effort on:
 
 - Write standard and clear code
 
-The [stock market application](https://github.com/Caloverys/stock-market) is the longest application I have made, but as the file becomes bigger and bigger, the problem of writing messy and in a big file becomes obvious: very hard to start efficiantly and experience hard a time to find what to start with. However, I am planning to redesign and recode the whole project after I finished my IB May exam as this project is still my passion about. 
+  The [stock market application](https://github.com/Caloverys/stock-market) is the longest application I have made, but as the file becomes bigger and bigger, the problem of writing messy and in a big file becomes obvious: very hard to start efficiantly and experience hard a time to find what to start with. However, I am planning to redesign and recode the whole project after I finished my IB May exam as this project is still my passion about. 
 
 
 
