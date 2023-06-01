@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Shawn. 
-As indicated on my current profile, haven't been actively working on pushing updates on existing projects and introduce new projects since last summmer.
+
 
 Things I am currently spending the most effort on: 
 - Academic success
